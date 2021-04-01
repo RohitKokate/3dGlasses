@@ -1,4 +1,4 @@
 # 3dGlasses
 
-In this project I have taken three 2d images of a spectacles from three different angles and tried to create a 3d model of it.
-All the three images, .ipynb file and html file of the code are provided.
+In this project I have taken some 2d images of a spectacles from different angles and tried to create a 3d model of it.
+
